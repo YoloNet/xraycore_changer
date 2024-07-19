@@ -45,6 +45,8 @@ Choose from a list of official Xray-core releases fetched directly from the GitH
 
 Provide a custom URL for the Xray core zip file, perfect for modified versions or alternative hosting.
 
+You can find other custom xray core HERE : 👉 https://github.com/YoloNet/Xray-core/releases
+
 ## ⚠️ Important Notes
 
 - The script assumes Xray is installed in `/usr/local/bin/xray`.
