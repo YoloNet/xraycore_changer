@@ -26,13 +26,12 @@ A powerful and user-friendly bash script to effortlessly update your Xray core o
 
 1. Clone the repository:
 ```
-git clone https://github.com/YoloNet/xray-update-script.git
+curl -O https://raw.githubusercontent.com/YoloNet/xraycore_changer/main/xray_core_changer.sh
 ```
 2. Navigate to the script directory:
 ```
-cd xray-update-script
-chmod +x xray_update.sh
-sudo ./xray_update.sh
+chmod +x xray_core_changer.sh
+sudo ./xray_core_changer.sh
 ```
 Follow the on-screen prompts to update your Xray core.
 
