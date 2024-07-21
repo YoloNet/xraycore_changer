@@ -40,6 +40,7 @@ Follow the on-screen prompts to update your Xray core.
 ### 1️⃣ Select from Official Versions
 
 Choose from a list of official Xray-core releases fetched directly from the GitHub repository.
+https://github.com/XTLS/Xray-core/releases
 
 ### 2️⃣ Enter Custom URL
 
